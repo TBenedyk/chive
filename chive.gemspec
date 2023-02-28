@@ -25,7 +25,7 @@ Gem::Specification.new do |spec|
 
   spec.files = Dir["{app,config,db,lib,templates}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
 
-  spec.add_dependency 'acts-as-taggable-on', '~> 7.0'
+  spec.add_dependency 'acts-as-taggable-on', '~> 9.0'
   spec.add_dependency 'bootstrap', '~> 4.6'
   spec.add_dependency 'ckeditor', '~> 5.1'
   spec.add_dependency 'flatpickr', '~> 4.6'
